@@ -1,5 +1,5 @@
 enabledMods.push("shade_pack.js");
-
+//this is a comment
 
 elements.shade = {
   color: "#660000", // Soft spectral hue
@@ -27,3 +27,4 @@ elements.lighted_shade = {
   },
   desc: ""
 };
+
